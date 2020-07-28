@@ -1,0 +1,349 @@
+﻿Categoria,Ano,Valor
+Agropecuária,1990,1070333975
+Agropecuária,1991,914925880
+Agropecuária,1992,1071632943
+Agropecuária,1993,1136767650
+Agropecuária,1994,1137883645
+Agropecuária,1995,1976182919
+Agropecuária,1996,1361967847
+Agropecuária,1997,1086997048
+Agropecuária,1998,1318533729
+Agropecuária,1999,1311819677
+Agropecuária,2000,1367481932
+Agropecuária,2001,1728510578
+Agropecuária,2002,1959015538
+Agropecuária,2003,2719775829
+Agropecuária,2004,2897681191
+Agropecuária,2005,1972764114
+Agropecuária,2006,1594838581
+Agropecuária,2007,1340548699
+Agropecuária,2008,1435288505
+Agropecuária,2009,876791133
+Agropecuária,2010,912789687
+Agropecuária,2011,852192168
+Agropecuária,2012,730456105
+Agropecuária,2013,917158987
+Agropecuária,2014,756035630
+Agropecuária,2015,846790443
+Agropecuária,2016,870013107
+Agropecuária,2017,780960086
+Agropecuária,2018,810167636
+Cimento,1990,16821082
+Cimento,1991,18304714
+Cimento,1992,14877547
+Cimento,1993,15274169
+Cimento,1994,15121396
+Cimento,1995,17457377
+Cimento,1996,20826861
+Cimento,1997,23475751
+Cimento,1998,25141125
+Cimento,1999,26265239
+Cimento,2000,26202301
+Cimento,2001,25872334
+Cimento,2002,24312543
+Cimento,2003,21533169
+Cimento,2004,20968848
+Cimento,2005,23046048
+Cimento,2006,24879570
+Cimento,2007,27794463
+Cimento,2008,30677487
+Cimento,2009,31802349
+Cimento,2010,35385372
+Cimento,2011,39450151
+Cimento,2012,41242135
+Cimento,2013,42299103
+Cimento,2014,41714401
+Cimento,2015,38099762
+Cimento,2016,34810340
+Cimento,2017,32215267
+Cimento,2018,31352230
+Comercial,1990,2097107
+Comercial,1991,1950443
+Comercial,1992,1997062
+Comercial,1993,1570033
+Comercial,1994,1591328
+Comercial,1995,1586440
+Comercial,1996,1625294
+Comercial,1997,1730435
+Comercial,1998,1853166
+Comercial,1999,1979084
+Comercial,2000,2217474
+Comercial,2001,2337399
+Comercial,2002,2608236
+Comercial,2003,1887233
+Comercial,2004,2033656
+Comercial,2005,1903288
+Comercial,2006,1962633
+Comercial,2007,1993984
+Comercial,2008,1788071
+Comercial,2009,1366259
+Comercial,2010,1445640
+Comercial,2011,1458088
+Comercial,2012,1700695
+Comercial,2013,1596554
+Comercial,2014,1676666
+Comercial,2015,1413037
+Comercial,2016,1441657
+Comercial,2017,1355247
+Comercial,2018,1421324
+Energia Elétrica,1990,8552551
+Energia Elétrica,1991,9537337
+Energia Elétrica,1992,10933837
+Energia Elétrica,1993,9971670
+Energia Elétrica,1994,10382159
+Energia Elétrica,1995,12286893
+Energia Elétrica,1996,13787230
+Energia Elétrica,1997,15560109
+Energia Elétrica,1998,16457159
+Energia Elétrica,1999,24171705
+Energia Elétrica,2000,24227441
+Energia Elétrica,2001,27757932
+Energia Elétrica,2002,22343940
+Energia Elétrica,2003,20827317
+Energia Elétrica,2004,25829703
+Energia Elétrica,2005,26410745
+Energia Elétrica,2006,26583762
+Energia Elétrica,2007,25304038
+Energia Elétrica,2008,34292804
+Energia Elétrica,2009,22787296
+Energia Elétrica,2010,36248063
+Energia Elétrica,2011,30240498
+Energia Elétrica,2012,45475399
+Energia Elétrica,2013,65831896
+Energia Elétrica,2014,80880998
+Energia Elétrica,2015,76628529
+Energia Elétrica,2016,53830506
+Energia Elétrica,2017,56613040
+Energia Elétrica,2018,47946905
+Metalurgia,1990,30914210
+Metalurgia,1991,35839611
+Metalurgia,1992,36501058
+Metalurgia,1993,39128022
+Metalurgia,1994,39993255
+Metalurgia,1995,41855819
+Metalurgia,1996,43414391
+Metalurgia,1997,44164375
+Metalurgia,1998,44557348
+Metalurgia,1999,42724214
+Metalurgia,2000,47301896
+Metalurgia,2001,45892380
+Metalurgia,2002,49039967
+Metalurgia,2003,51833691
+Metalurgia,2004,53381464
+Metalurgia,2005,51612831
+Metalurgia,2006,49917026
+Metalurgia,2007,54479938
+Metalurgia,2008,54660066
+Metalurgia,2009,44952933
+Metalurgia,2010,59406304
+Metalurgia,2011,62605777
+Metalurgia,2012,61579295
+Metalurgia,2013,60353459
+Metalurgia,2014,61034882
+Metalurgia,2015,60605502
+Metalurgia,2016,56124333
+Metalurgia,2017,60984635
+Metalurgia,2018,58712491
+Não alocado,1990,18839
+Não alocado,1991,34500
+Não alocado,1992,61457
+Não alocado,1993,71602
+Não alocado,1994,79564
+Não alocado,1995,95209
+Não alocado,1996,98836
+Não alocado,1997,102841
+Não alocado,1998,111755
+Não alocado,1999,116154
+Não alocado,2000,121587
+Não alocado,2001,126101
+Não alocado,2002,130237
+Não alocado,2003,156521
+Não alocado,2004,160870
+Não alocado,2005,164498
+Não alocado,2006,168125
+Não alocado,2007,183245
+Não alocado,2008,193439
+Não alocado,2009,203633
+Não alocado,2010,213828
+Não alocado,2011,215804
+Não alocado,2012,216424
+Não alocado,2013,227301
+Não alocado,2014,237842
+Não alocado,2015,242914
+Não alocado,2016,241207
+Não alocado,2017,241143
+Não alocado,2018,241542
+Outras Industrias,1990,30979172
+Outras Industrias,1991,31388058
+Outras Industrias,1992,33138467
+Outras Industrias,1993,33970711
+Outras Industrias,1994,35092035
+Outras Industrias,1995,37290919
+Outras Industrias,1996,40679559
+Outras Industrias,1997,42657585
+Outras Industrias,1998,42328920
+Outras Industrias,1999,45489821
+Outras Industrias,2000,48668201
+Outras Industrias,2001,46987053
+Outras Industrias,2002,48078042
+Outras Industrias,2003,46474509
+Outras Industrias,2004,48083688
+Outras Industrias,2005,49554265
+Outras Industrias,2006,49482402
+Outras Industrias,2007,53704367
+Outras Industrias,2008,53110502
+Outras Industrias,2009,49910007
+Outras Industrias,2010,53528744
+Outras Industrias,2011,56620277
+Outras Industrias,2012,54782813
+Outras Industrias,2013,55341320
+Outras Industrias,2014,54733848
+Outras Industrias,2015,53011428
+Outras Industrias,2016,49465860
+Outras Industrias,2017,49600178
+Outras Industrias,2018,50347083
+Produção de Combustíveis,1990,20469314
+Produção de Combustíveis,1991,18846710
+Produção de Combustíveis,1992,19498146
+Produção de Combustíveis,1993,20640416
+Produção de Combustíveis,1994,21643356
+Produção de Combustíveis,1995,20703866
+Produção de Combustíveis,1996,22036982
+Produção de Combustíveis,1997,24500162
+Produção de Combustíveis,1998,25368791
+Produção de Combustíveis,1999,25137161
+Produção de Combustíveis,2000,27007314
+Produção de Combustíveis,2001,28798393
+Produção de Combustíveis,2002,28647805
+Produção de Combustíveis,2003,29822586
+Produção de Combustíveis,2004,30385816
+Produção de Combustíveis,2005,34866684
+Produção de Combustíveis,2006,34257729
+Produção de Combustíveis,2007,35609059
+Produção de Combustíveis,2008,38360916
+Produção de Combustíveis,2009,43298409
+Produção de Combustíveis,2010,38122025
+Produção de Combustíveis,2011,38138024
+Produção de Combustíveis,2012,39950599
+Produção de Combustíveis,2013,44718295
+Produção de Combustíveis,2014,47935310
+Produção de Combustíveis,2015,46541407
+Produção de Combustíveis,2016,44596659
+Produção de Combustíveis,2017,44299757
+Produção de Combustíveis,2018,44529841
+Público,1990,513934
+Público,1991,528883
+Público,1992,509337
+Público,1993,891823
+Público,1994,1989324
+Público,1995,2108439
+Público,1996,1517833
+Público,1997,1646880
+Público,1998,1849009
+Público,1999,2418683
+Público,2000,2124097
+Público,2001,2175675
+Público,2002,2210573
+Público,2003,1859544
+Público,2004,1884754
+Público,2005,1742409
+Público,2006,1670809
+Público,2007,1810590
+Público,2008,1789222
+Público,2009,1699124
+Público,2010,1191596
+Público,2011,1246649
+Público,2012,829529
+Público,2013,833427
+Público,2014,819691
+Público,2015,817973
+Público,2016,794388
+Público,2017,812745
+Público,2018,788380
+Residencial,1990,13963624
+Residencial,1991,14345216
+Residencial,1992,14846355
+Residencial,1993,15391736
+Residencial,1994,15373507
+Residencial,1995,16085689
+Residencial,1996,16724225
+Residencial,1997,16745563
+Residencial,1998,16820520
+Residencial,1999,17155789
+Residencial,2000,17194708
+Residencial,2001,17232669
+Residencial,2002,16661470
+Residencial,2003,15531726
+Residencial,2004,15863073
+Residencial,2005,15590647
+Residencial,2006,15616052
+Residencial,2007,16123371
+Residencial,2008,16529885
+Residencial,2009,16737896
+Residencial,2010,17249375
+Residencial,2011,17486915
+Residencial,2012,17597816
+Residencial,2013,17993795
+Residencial,2014,18001931
+Residencial,2015,18020648
+Residencial,2016,18209105
+Residencial,2017,18348639
+Residencial,2018,18211226
+Transporte de Carga,1990,47131066
+Transporte de Carga,1991,48576262
+Transporte de Carga,1992,49160587
+Transporte de Carga,1993,50755992
+Transporte de Carga,1994,52186757
+Transporte de Carga,1995,55707667
+Transporte de Carga,1996,59283384
+Transporte de Carga,1997,61337561
+Transporte de Carga,1998,64364865
+Transporte de Carga,1999,64697475
+Transporte de Carga,2000,65933005
+Transporte de Carga,2001,67920195
+Transporte de Carga,2002,70869182
+Transporte de Carga,2003,68782910
+Transporte de Carga,2004,73971055
+Transporte de Carga,2005,74164525
+Transporte de Carga,2006,75423234
+Transporte de Carga,2007,79270583
+Transporte de Carga,2008,83052165
+Transporte de Carga,2009,81169762
+Transporte de Carga,2010,89156520
+Transporte de Carga,2011,94896643
+Transporte de Carga,2012,100985650
+Transporte de Carga,2013,106769149
+Transporte de Carga,2014,108213439
+Transporte de Carga,2015,102319101
+Transporte de Carga,2016,101651402
+Transporte de Carga,2017,103962255
+Transporte de Carga,2018,102190746
+Transporte de Passageiro,1990,35045042
+Transporte de Passageiro,1991,37395999
+Transporte de Passageiro,1992,37457864
+Transporte de Passageiro,1993,39308213
+Transporte de Passageiro,1994,42021539
+Transporte de Passageiro,1995,48482257
+Transporte de Passageiro,1996,54385730
+Transporte de Passageiro,1997,59272744
+Transporte de Passageiro,1998,62537693
+Transporte de Passageiro,1999,59556187
+Transporte de Passageiro,2000,59551409
+Transporte de Passageiro,2001,60126123
+Transporte de Passageiro,2002,59880637
+Transporte de Passageiro,2003,59132879
+Transporte de Passageiro,2004,62193269
+Transporte de Passageiro,2005,63276917
+Transporte de Passageiro,2006,65983784
+Transporte de Passageiro,2007,68006339
+Transporte de Passageiro,2008,70161363
+Transporte de Passageiro,2009,69490759
+Transporte de Passageiro,2010,79316345
+Transporte de Passageiro,2011,89753075
+Transporte de Passageiro,2012,100669996
+Transporte de Passageiro,2013,101283281
+Transporte de Passageiro,2014,104541124
+Transporte de Passageiro,2015,96652733
+Transporte de Passageiro,2016,97846786
+Transporte de Passageiro,2017,99973405
+Transporte de Passageiro,2018,91934055
